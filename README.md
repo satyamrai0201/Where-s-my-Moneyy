@@ -26,10 +26,10 @@ Where’s My Moneyy!! is a simple and effective web application that helps you t
 🚀 Installation
 
 # Clone the repository
-git clone https://github.com/your-username/wheres-my-moneyy.git
+git clone https://github.com/your-username/project_name
 
 # Open the project
-cd wheres-my-moneyy
+cd project_name
 
 Then open index.html in your browser.
 
